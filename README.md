@@ -96,28 +96,3 @@
 <h2 pid="20" style="text-align: left;">5. Registrarse y comprar un Voucher para realizar el examen</h2>
 <p pid="94" style="text-align: left;"><a href="https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&amp;get_params=p_exam_id:1Z0-808" rel="nofollow" target="_blank">Oracle Education Exam registration link</a>.</p>
 
-
-
-
-<style> 
-
-table {
-    border-collapse: collapse;
-    empty-cells: show;
-    width: 100%;
-    margin-bottom: 10px;
-    margin-top: 10px;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
-table td {
-    border: solid 1px #ccc;
-    padding: 5px 10px;
-    font-size: 14px;
-    font-weight: 300;
-    font-family: "Georgia", Serif;
-}
-</style>
