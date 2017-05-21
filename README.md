@@ -96,3 +96,8 @@
 <h2 pid="20" style="text-align: left;">5. Registrarse y comprar un Voucher para realizar el examen</h2>
 <p pid="94" style="text-align: left;"><a href="https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&amp;get_params=p_exam_id:1Z0-808" rel="nofollow" target="_blank">Oracle Education Exam registration link</a>.</p>
 
+
+Libros disponibles en el siguiente enlace: 
+
+<a href="https://gitlab.com/kenichi.shibata/book/tree/master/">libros java</a>
+
